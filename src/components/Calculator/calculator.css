@@ -1,0 +1,11 @@
+.wrapCalculator{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+    width: 300px;
+}
+button{
+    width: 60px;
+    display: inline-flex;
+}
